@@ -1,0 +1,28 @@
+:root{
+    --main-color: blue
+}
+p{
+    color: var(--main-color)
+}
+li i{
+    color: green
+}
+h1{
+    color:blueviolet
+}
+h3{
+    color:purple
+}
+.names{
+    font-family: monospace;
+    background-color: lightblue;
+}
+a:link{
+    color:orange
+}
+a:hover{
+    color: green
+}
+table, th, td{
+    border:1px solid black;
+}
